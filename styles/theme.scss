@@ -1,7 +1,11 @@
 $body-color:  #333;
 $body-bg: #f2f2f2;
-.wonderful {
-  font-family: 'Arial';
-  color:red;
-}
+
 @import '~bootstrap/scss/bootstrap.scss';
+
+.navbar-brand {
+  background-color: $dark;
+  img {
+    height: 45px;
+  }
+}

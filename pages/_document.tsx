@@ -12,7 +12,6 @@ export default class MyDocument extends Document {
             <html lang="en">
             <meta name="description" content="We are Wonderful test page"/>
             <Head>
-                <style>{`body { margin: 0 } /* custom! */`}</style>
                 <title>We are Wonderful</title>
             </Head>
             <body className="wonderful">

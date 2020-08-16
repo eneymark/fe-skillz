@@ -1,0 +1,145 @@
+{
+
+  "navItems": [
+    {
+      "name": "Videos",
+      "link": "/videos",
+      "title": "Videos",
+      "subMenu": [
+        {
+          "name": "Videos sub 1",
+          "link": "/videos_sub_1",
+          "title": "Videos sub 1"
+        },
+        {
+          "name": "Videos sub 2",
+          "link": "/videos_sub_2",
+          "title": "Videos sub 2"
+        },
+        {
+          "name": "Videos sub 3",
+          "link": "/videos_sub_3",
+          "title": "Videos sub 3"
+        },{
+          "name": "Videos sub 4",
+          "link": "/videos_sub_4",
+          "title": "Videos sub 4"
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "link": "/Blog",
+      "title": "Blog",
+      "subMenu": [
+        {
+          "name": "Blog sub 1",
+          "link": "/Blog_sub_1",
+          "title": "Blog sub 1"
+        },
+        {
+          "name": "Blog sub 2",
+          "link": "/Blog_sub_2",
+          "title": "Blog sub 2"
+        },
+        {
+          "name": "Blog sub 3",
+          "link": "/Blog_sub_3",
+          "title": "Blog sub 3"
+        },{
+          "name": "Blog sub 4",
+          "link": "/Blogsub_4",
+          "title": "Blog sub 4"
+        }
+      ]
+    },
+    {
+      "name": "Pistachios",
+      "link": "/pistachios",
+      "title": "Pistachios",
+      "subMenu": [
+        {
+          "name": "Pistachios sub 1",
+          "link": "/pistachios_sub_1",
+          "title": "Pistachios sub 1"
+        },
+        {
+          "name": "Pistachios sub 2",
+          "link": "/pistachios_sub_2",
+          "title": "Pistachios sub 2"
+        },
+        {
+          "name": "Pistachios sub 3",
+          "link": "/pistachios_sub_3",
+          "title": "Pistachios sub 3"
+        },{
+          "name": "Pistachios sub 4",
+          "link": "/pistachios_sub_4",
+          "title": "Pistachios sub 4"
+        }
+      ]
+    },
+    {
+      "name": "Store Locator",
+      "link": "/pistachios",
+      "title": "Store Locator",
+      "subMenu": [
+        {
+          "name": "Store Locator sub 1",
+          "link": "/pistachios_sub_1",
+          "title": "Store Locator sub 1"
+        },
+        {
+          "name": "Store Locator sub 2",
+          "link": "/pistachios_sub_2",
+          "title": "Store Locator sub 2"
+        },
+        {
+          "name": "Store Locator sub 3",
+          "link": "/pistachios_sub_3",
+          "title": "Store Locator sub 3"
+        },{
+          "name": "Store Locator sub 4",
+          "link": "/pistachios_sub_4",
+          "title": "Store Locator sub 4"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "link": "/contactus",
+      "title": "Contact Us"
+    },
+    {
+      "name": "News",
+      "link": "/News",
+      "title": "News"
+    },
+    {
+      "name": "Press & Trade",
+      "link": "/pistachios",
+      "title": "Press & Trade",
+      "subMenu": [
+        {
+          "name": "Press & Trade sub 1",
+          "link": "/pistachios_sub_1",
+          "title": "Press & Trade sub 1"
+        },
+        {
+          "name": "Press & Trade sub 2",
+          "link": "/pistachios_sub_2",
+          "title": "Press & Trade sub 2"
+        },
+        {
+          "name": "Press & Trade sub 3",
+          "link": "/pistachios_sub_3",
+          "title": "Press & Trade sub 3"
+        },{
+          "name": "Press & Trade sub 4",
+          "link": "/pistachios_sub_4",
+          "title": "Press & Trade sub 4"
+        }
+      ]
+    }
+  ]
+}
