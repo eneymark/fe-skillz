@@ -1,4 +1,5 @@
 import Document, { Head, Main, NextScript } from 'next/document'
+import '../styles/theme.scss';
 
 export default class MyDocument extends Document {
     static async getInitialProps(ctx) {
@@ -12,7 +13,7 @@ export default class MyDocument extends Document {
             <Head>
                 <style>{`body { margin: 0 } /* custom! */`}</style>
             </Head>
-            <body className="custom_class">
+            <body className="wonderful">
             <Main />
             <NextScript />
             </body>
