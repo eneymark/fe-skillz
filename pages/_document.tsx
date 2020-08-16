@@ -9,9 +9,11 @@ export default class MyDocument extends Document {
 
     render() {
         return (
-            <html>
+            <html lang="en">
+            <meta name="description" content="We are Wonderful test page"/>
             <Head>
                 <style>{`body { margin: 0 } /* custom! */`}</style>
+                <title>We are Wonderful</title>
             </Head>
             <body className="wonderful">
             <Main />
