@@ -1,6 +1,6 @@
 $body-color:  #333;
 $body-bg: #f2f2f2;
-
+$light : #79766b;
 @import '~bootstrap/scss/bootstrap.scss';
 
 .navbar-brand {
@@ -8,4 +8,7 @@ $body-bg: #f2f2f2;
   img {
     height: 45px;
   }
+}
+.dropdown-menu {
+  background-color: $light;
 }
