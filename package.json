@@ -1,0 +1,33 @@
+{
+  "name": "fe-skillz",
+  "version": "1.0.0",
+  "description": "Thank you so much for your interest in a position on the Front End Development team at The Wonderful Company. We are very excited to continue our interview process with you!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eneymark/fe-skillz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eneymark/fe-skillz/issues"
+  },
+  "homepage": "https://github.com/eneymark/fe-skillz#readme",
+  "dependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^16.9.46",
+    "@zeit/next-typescript": "^1.1.1",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  }
+}
