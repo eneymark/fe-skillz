@@ -3,7 +3,7 @@ import { Navbar, NavItem, NavDropdown, Nav } from 'react-bootstrap';
 
 function HeaderNav({navBar}) {
         return (<Navbar data-test="navbar" variant="dark" bg="dark" expand="lg">
-            <Navbar.Brand href="#home"><img data-test="logo" src="../we_are_wonderful.png"/></Navbar.Brand>
+            <Navbar.Brand href="#home"><img alt="We are Wonderful" data-test="logo" src="../we_are_wonderful.png"/></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse>
                 <Nav className="mr-auto">
